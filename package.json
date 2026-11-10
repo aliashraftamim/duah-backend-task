@@ -5,7 +5,7 @@
   "repository": "https://github.com/webashraf/duah-backend-task",
   "author": "ali-ashraf",
   "scripts": {
-    "dev": "node init && nodemon src/app.js"
+    "dev": "nodemon src/app.js"
   },
   "license": "MIT",
   "dependencies": {
